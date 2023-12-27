@@ -1,5 +1,6 @@
 ---
 layout: page
-title: 
+title: Jay is right
+permalink: /
 ---
 Jay is right.

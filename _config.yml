@@ -1,1 +1,4 @@
+title: Jay is right
+description: >- # this means to ignore newlines until "baseurl:"
+  Jay is right
 theme: jekyll-theme-minimal
